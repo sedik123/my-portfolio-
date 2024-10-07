@@ -7,22 +7,22 @@ This folder showcases projects I have completed.
 # Meddouri sedik 
 
 ## skills
-**data analyst with excel, power bi, Tableau**
-**C, Python, Javascript, SQl, HTML, CSS**
+* **data analyst with excel, power bi, Tableau**
+* **C, Python, Javascript, SQl, HTML, CSS**
 
 ### languages
-**arabic native speaker** 
-**C1 frensh**
-**TEFL certified english teacher C1**
-**B1 Spanish** 
+* **arabic native speaker** 
+* **C1 frensh**
+* **TEFL certified english teacher C1**
+* **B1 Spanish** 
 
 ### programming languages 
-**C Javascript Python**
+* **C Javascript Python**
 
 ## about me 
 
 ### studies 
-**Bachelor in sofware engineering**
+* **Bachelor in sofware engineering**
 
 ### hobbies 
-**meditation, sport, chess**
+* **meditation, sport, chess**
